@@ -9,6 +9,7 @@ import '../../public/css/styles.css';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
+  title = 'Tour of Heroes';
 }
 
 
